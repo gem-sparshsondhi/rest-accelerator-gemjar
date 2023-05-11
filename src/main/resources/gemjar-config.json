@@ -1,0 +1,13 @@
+{
+  "environment": "beta",
+  "project_name": "REST ACCELERATOR",
+  "report_name": "REST_ACCELERATOR_Report",
+  "sub_id": "test_id",
+  "glueCode": "com.qa.mis.stepdefinitions",
+  "email_report": null,
+  "email_to": "sparsh.sondhi@geminisolutions.com",
+  "email_cc": "",
+  "tags": "@test123",
+  "beta": {
+  }
+}
